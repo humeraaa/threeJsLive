@@ -5,4 +5,6 @@ For running it on a server, install VSCode, Install the Live Server Extension(ht
 Tutorial for installing it: https://www.youtube.com/watch?v=y4qqQeUDCBQ
 For Starting the Live Server, Alt + L + O
 # For Running it via NodeMon
+open cmd
+npm -g nodemon
 nodemon index.js
